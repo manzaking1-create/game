@@ -1,0 +1,6 @@
+{
+  "name": "2D Sprite Action Game",
+  "description": "An action game featuring a customizable 4-state sprite sheet player with hitboxes, fireball projectiles, an expanding energy burst skill, and adjustable control bindings on a tiled ground plane.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
